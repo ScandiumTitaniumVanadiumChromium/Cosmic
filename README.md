@@ -32,6 +32,7 @@ You must run these commands on your server:
 `npm install`  
 `npm start`
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ScandiumTitaniumVanadiumChromium/Cosmic)
 #### What happened to Replit Deployment?
 
 As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/hosting-changes). Try GitHub Codespaces instead.
